@@ -53,7 +53,6 @@
 
 
 
-
 <br>
 
 <!--
@@ -69,6 +68,10 @@
 <a href="노션포트폴리오"><img src="https://img.shields.io/badge/Portfolio-3b82f6?style=flat-square&logo=notion&logoColor=white" /></a>
 
 <br><br>
+
+<a href="https://github.com/git-goods/gitanimals">
+  <img src="https://render.gitanimals.org/lines/imnotbape?contribution-view=false" width="600" height="120"/>
+</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%" />
 
